@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ProductTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Solidify\Solidify.csproj">
