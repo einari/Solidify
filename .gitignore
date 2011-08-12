@@ -10,3 +10,5 @@ bin/
 Bin/
 obj/
 *.cache
+*.pidb
+*.userprefs
