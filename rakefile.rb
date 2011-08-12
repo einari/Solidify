@@ -3,7 +3,7 @@ require 'rake/clean'
 module GlobalSettings
   $compiler = "dmcs"
   $core_references = ["mscorlib.dll", "System.dll"]
-  $output_folder = "output"
+  $output_folder = "./"
 end
 
 class Target
