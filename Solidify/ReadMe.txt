@@ -18,9 +18,12 @@ The job has proven to be unreliable, buggy and difficult to change. An attempt w
 automatic testing to the job but the results have been disappointing, some people arguing that it has made
 the job even harder to understand and test.
 
-It has been decided to undertake a substantial refactoring of the job to make it easier to understand, 
+The job has suddenly stopped working.  
+
+Instead of simply fixing the job as it is, it has been decided to undertake a substantial refactoring to make it easier to understand, 
 easier to change and easier to test.   
 
+You have complete discretion to implement the solution as you see fit.
 
 
 Business Rules
