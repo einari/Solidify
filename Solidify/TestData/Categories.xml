@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<rows>
+  <row storeId="310" BrowseNodeId="1" BrowseNodeTxt="A" />
+  <row storeId="310" BrowseNodeId="2" BrowseNodeTxt="B" />
+
+  <row storeId="311" BrowseNodeId="1" BrowseNodeTxt="A" />
+  <row storeId="311" BrowseNodeId="2" BrowseNodeTxt="B" />
+
+  <row storeId="312" BrowseNodeId="1" BrowseNodeTxt="A" />
+  <row storeId="312" BrowseNodeId="2" BrowseNodeTxt="B" />
+
+  <row storeId="318" BrowseNodeId="1" BrowseNodeTxt="A" />
+  <row storeId="318" BrowseNodeId="2" BrowseNodeTxt="B" />
+
+  <row storeId="321" BrowseNodeId="1" BrowseNodeTxt="A" />
+  <row storeId="321" BrowseNodeId="2" BrowseNodeTxt="B" />
+
+  <row storeId="323" BrowseNodeId="1" BrowseNodeTxt="A" />
+  <row storeId="323" BrowseNodeId="2" BrowseNodeTxt="B" />
+
+  <row storeId="324" BrowseNodeId="1" BrowseNodeTxt="A" />
+  <row storeId="324" BrowseNodeId="2" BrowseNodeTxt="B" />
+
+  <row storeId="325" BrowseNodeId="1" BrowseNodeTxt="A" />
+  <row storeId="325" BrowseNodeId="2" BrowseNodeTxt="B" />
+</rows> 

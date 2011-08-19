@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{16620D49-2EAA-47E6-BFF5-DCFAD50EE15B}</ProjectGuid>
+    <ProjectGuid>{91E74287-58FE-4EFF-BC0B-AB1C3CB74B85}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Solidify.Tests</RootNamespace>
-    <AssemblyName>Solidify.Tests</AssemblyName>
+    <RootNamespace>Solidify.Services</RootNamespace>
+    <AssemblyName>Solidify.Services</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -38,19 +38,20 @@
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
-    <Reference Include="nunit.framework, Version=2.5.9.10348, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77">
-      <HintPath>..\Libraries\NUnit\dotNet\nunit.framework.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Catalog.cs" />
+    <Compile Include="DataHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="HotlistGeneratorTests.cs" />
+    <Compile Include="SalesData.cs" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <ProjectReference Include="..\Solidify\Solidify.csproj">
-      <Project>{E571D0F1-FCBE-43F5-B8C0-22CABBEB3468}</Project>
-      <Name>Solidify</Name>
-    </ProjectReference>
+    <EmbeddedResource Include="Data\Categories.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Products.xml" />
+    <EmbeddedResource Include="Data\SalesData.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

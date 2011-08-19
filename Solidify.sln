@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solidify", "Solidify\Solidi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solidify.Tests", "Solidify.Tests\Solidify.Tests.csproj", "{16620D49-2EAA-47E6-BFF5-DCFAD50EE15B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solidify.Services", "Solidify.Services\Solidify.Services.csproj", "{91E74287-58FE-4EFF-BC0B-AB1C3CB74B85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,17 +17,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{16620D49-2EAA-47E6-BFF5-DCFAD50EE15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{16620D49-2EAA-47E6-BFF5-DCFAD50EE15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{16620D49-2EAA-47E6-BFF5-DCFAD50EE15B}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
-		{16620D49-2EAA-47E6-BFF5-DCFAD50EE15B}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
-		{16620D49-2EAA-47E6-BFF5-DCFAD50EE15B}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{16620D49-2EAA-47E6-BFF5-DCFAD50EE15B}.Debug|x86.Build.0 = Debug|Any CPU
-		{16620D49-2EAA-47E6-BFF5-DCFAD50EE15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{16620D49-2EAA-47E6-BFF5-DCFAD50EE15B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{16620D49-2EAA-47E6-BFF5-DCFAD50EE15B}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
-		{16620D49-2EAA-47E6-BFF5-DCFAD50EE15B}.Release|Mixed Platforms.Build.0 = Release|Any CPU
-		{16620D49-2EAA-47E6-BFF5-DCFAD50EE15B}.Release|x86.ActiveCfg = Release|Any CPU
 		{E571D0F1-FCBE-43F5-B8C0-22CABBEB3468}.Debug|Any CPU.ActiveCfg = Debug|x86
 		{E571D0F1-FCBE-43F5-B8C0-22CABBEB3468}.Debug|Any CPU.Build.0 = Debug|x86
 		{E571D0F1-FCBE-43F5-B8C0-22CABBEB3468}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
@@ -37,11 +28,32 @@ Global
 		{E571D0F1-FCBE-43F5-B8C0-22CABBEB3468}.Release|Mixed Platforms.Build.0 = Release|x86
 		{E571D0F1-FCBE-43F5-B8C0-22CABBEB3468}.Release|x86.ActiveCfg = Release|x86
 		{E571D0F1-FCBE-43F5-B8C0-22CABBEB3468}.Release|x86.Build.0 = Release|x86
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Solidify\Solidify.csproj
+		{16620D49-2EAA-47E6-BFF5-DCFAD50EE15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16620D49-2EAA-47E6-BFF5-DCFAD50EE15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16620D49-2EAA-47E6-BFF5-DCFAD50EE15B}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{16620D49-2EAA-47E6-BFF5-DCFAD50EE15B}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{16620D49-2EAA-47E6-BFF5-DCFAD50EE15B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{16620D49-2EAA-47E6-BFF5-DCFAD50EE15B}.Debug|x86.Build.0 = Debug|Any CPU
+		{16620D49-2EAA-47E6-BFF5-DCFAD50EE15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16620D49-2EAA-47E6-BFF5-DCFAD50EE15B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16620D49-2EAA-47E6-BFF5-DCFAD50EE15B}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{16620D49-2EAA-47E6-BFF5-DCFAD50EE15B}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{16620D49-2EAA-47E6-BFF5-DCFAD50EE15B}.Release|x86.ActiveCfg = Release|Any CPU
+		{91E74287-58FE-4EFF-BC0B-AB1C3CB74B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E74287-58FE-4EFF-BC0B-AB1C3CB74B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E74287-58FE-4EFF-BC0B-AB1C3CB74B85}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{91E74287-58FE-4EFF-BC0B-AB1C3CB74B85}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{91E74287-58FE-4EFF-BC0B-AB1C3CB74B85}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{91E74287-58FE-4EFF-BC0B-AB1C3CB74B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E74287-58FE-4EFF-BC0B-AB1C3CB74B85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91E74287-58FE-4EFF-BC0B-AB1C3CB74B85}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{91E74287-58FE-4EFF-BC0B-AB1C3CB74B85}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{91E74287-58FE-4EFF-BC0B-AB1C3CB74B85}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Solidify\Solidify.csproj
 	EndGlobalSection
 EndGlobal

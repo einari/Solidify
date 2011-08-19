@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rows>
+  <row BrowseNodeId="1" MATNR="1" MAKTX="Product 1" StoreId="310" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="2" MAKTX="Product 2" StoreId="310" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="3" MAKTX="Product 3" StoreId="310" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="4" MAKTX="Product 4" StoreId="310" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="5" MAKTX="Product 5" StoreId="310" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+
+  <row BrowseNodeId="2" MATNR="6" MAKTX="Product 6" StoreId="310" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="7" MAKTX="Product 7" StoreId="310" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="8" MAKTX="Product 8" StoreId="310" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="9" MAKTX="Product 9" StoreId="310" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="10" MAKTX="Product 10" StoreId="310" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+
+  <row BrowseNodeId="1" MATNR="11" MAKTX="Product 11" StoreId="311" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="12" MAKTX="Product 12" StoreId="311" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="13" MAKTX="Product 13" StoreId="311" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="14" MAKTX="Product 14" StoreId="311" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="15" MAKTX="Product 15" StoreId="311" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+                                                                                                                                                                                    
+  <row BrowseNodeId="2" MATNR="16" MAKTX="Product 16" StoreId="311" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="17" MAKTX="Product 17" StoreId="311" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="18" MAKTX="Product 18" StoreId="311" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="19" MAKTX="Product 19" StoreId="311" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="20" MAKTX="Product 20" StoreId="311" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+                                                                                                                                                                                    
+  <row BrowseNodeId="1" MATNR="21" MAKTX="Product 21" StoreId="312" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="22" MAKTX="Product 22" StoreId="312" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="23" MAKTX="Product 23" StoreId="312" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="24" MAKTX="Product 24" StoreId="312" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="25" MAKTX="Product 25" StoreId="312" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+                                                                                                                                                                                    
+  <row BrowseNodeId="2" MATNR="26" MAKTX="Product 26" StoreId="312" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="27" MAKTX="Product 27" StoreId="312" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="28" MAKTX="Product 28" StoreId="312" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="29" MAKTX="Product 29" StoreId="312" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="30" MAKTX="Product 30" StoreId="312" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>  
+                                                                                                                                                                                    
+  <row BrowseNodeId="1" MATNR="31" MAKTX="Product 31" StoreId="318" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="32" MAKTX="Product 32" StoreId="318" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="33" MAKTX="Product 33" StoreId="318" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="34" MAKTX="Product 34" StoreId="318" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="35" MAKTX="Product 35" StoreId="318" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+                                                                                                                                                                                    
+  <row BrowseNodeId="2" MATNR="36" MAKTX="Product 36" StoreId="318" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="37" MAKTX="Product 37" StoreId="318" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="38" MAKTX="Product 38" StoreId="318" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="39" MAKTX="Product 39" StoreId="318" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="40" MAKTX="Product 40" StoreId="318" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+                                                                                                                                                                                    
+  <row BrowseNodeId="1" MATNR="41" MAKTX="Product 41" StoreId="321" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="42" MAKTX="Product 42" StoreId="321" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="43" MAKTX="Product 43" StoreId="321" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="44" MAKTX="Product 44" StoreId="321" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="45" MAKTX="Product 45" StoreId="321" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+                                                                                                                                                                                    
+  <row BrowseNodeId="2" MATNR="46" MAKTX="Product 46" StoreId="321" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="47" MAKTX="Product 47" StoreId="321" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="48" MAKTX="Product 48" StoreId="321" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="49" MAKTX="Product 49" StoreId="321" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="50" MAKTX="Product 50" StoreId="321" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+                                                                                                                                                                                    
+  <row BrowseNodeId="1" MATNR="51" MAKTX="Product 51" StoreId="323" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="52" MAKTX="Product 52" StoreId="323" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="53" MAKTX="Product 53" StoreId="323" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="54" MAKTX="Product 54" StoreId="323" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="55" MAKTX="Product 55" StoreId="323" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+                                                                                                                                                                                    
+  <row BrowseNodeId="2" MATNR="56" MAKTX="Product 56" StoreId="323" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="57" MAKTX="Product 57" StoreId="323" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="58" MAKTX="Product 58" StoreId="323" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="59" MAKTX="Product 59" StoreId="323" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="60" MAKTX="Product 60" StoreId="323" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+                                                                                                                                                                                    
+  <row BrowseNodeId="1" MATNR="61" MAKTX="Product 61" StoreId="324" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="62" MAKTX="Product 62" StoreId="324" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="63" MAKTX="Product 63" StoreId="324" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="64" MAKTX="Product 64" StoreId="324" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="65" MAKTX="Product 65" StoreId="324" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+                                                                                                                                                                                    
+  <row BrowseNodeId="2" MATNR="66" MAKTX="Product 66" StoreId="324" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="67" MAKTX="Product 67" StoreId="324" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="68" MAKTX="Product 68" StoreId="324" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="69" MAKTX="Product 69" StoreId="324" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="70" MAKTX="Product 70" StoreId="324" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+                                                                                                                                                                                    
+  <row BrowseNodeId="1" MATNR="71" MAKTX="Product 71" StoreId="325" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="72" MAKTX="Product 72" StoreId="325" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="73" MAKTX="Product 73" StoreId="325" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="74" MAKTX="Product 74" StoreId="325" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="1" MATNR="75" MAKTX="Product 75" StoreId="325" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+                                                                                                                                                                                   
+  <row BrowseNodeId="2" MATNR="76" MAKTX="Product 76" StoreId="325" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="77" MAKTX="Product 77" StoreId="325" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="78" MAKTX="Product 78" StoreId="325" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="79" MAKTX="Product 79" StoreId="325" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="80" MAKTX="Product 80" StoreId="325" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="100.00" QuantityForSale1="100.00" AvailableDate1="2011-09-01 10:00:00.000"/>
+
+  <row BrowseNodeId="2" MATNR="81" MAKTX="Product 81 - Out of stock coming in" StoreId="310" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="0" QuantityForSale1="100.00" AvailableDate1="2011-08-22 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="82" MAKTX="Product 82 - Out of stock not coming in" StoreId="310" ZCPRICE="1500.00" SPART="" VMSTA="" QuantityForSale="0" QuantityForSale1="100.00" AvailableDate1="2013-08-22 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="83" MAKTX="Product 83 - End of Life" StoreId="310" ZCPRICE="1500.00" SPART="" VMSTA="03" QuantityForSale="100" QuantityForSale1="100.00" AvailableDate1="2013-08-22 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="84" MAKTX="Product 84 - Demo" StoreId="310" ZCPRICE="1500.00" SPART="90" VMSTA="" QuantityForSale="100" QuantityForSale1="100.00" AvailableDate1="2013-08-22 10:00:00.000"/>
+  
+  <row BrowseNodeId="2" MATNR="90" MAKTX="Product 90 - Costs 400" StoreId="311" ZCPRICE="400.00" SPART="" VMSTA="" QuantityForSale="100" QuantityForSale1="100.00" AvailableDate1="2013-08-22 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="91" MAKTX="Product 91 - Costs 800" StoreId="311" ZCPRICE="800.00" SPART="" VMSTA="" QuantityForSale="100" QuantityForSale1="100.00" AvailableDate1="2013-08-22 10:00:00.000"/>
+
+  <row BrowseNodeId="2" MATNR="100" MAKTX="Product 100 - Costs 800" StoreId="325" ZCPRICE="800.00" SPART="" VMSTA="" QuantityForSale="100" QuantityForSale1="100.00" AvailableDate1="2013-08-22 10:00:00.000"/>
+  <row BrowseNodeId="2" MATNR="101" MAKTX="Product 101 - Costs 1000" StoreId="325" ZCPRICE="1001.00" SPART="" VMSTA="" QuantityForSale="100" QuantityForSale1="100.00" AvailableDate1="2013-08-22 10:00:00.000"/>
+</rows>                                                                                                                                                                             

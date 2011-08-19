@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<rows>
+  <row StoreId="310" KDGRP="40" SKU="1" Day="15" Month="8" Year="2011" Count="1" ItemStatus="SH" />
+  <row StoreId="310" KDGRP="40" SKU="2" Day="15" Month="8" Year="2011" Count="2" ItemStatus="SH" />
+  <row StoreId="310" KDGRP="40" SKU="3" Day="15" Month="8" Year="2011" Count="3" ItemStatus="SH" />
+  <row StoreId="310" KDGRP="40" SKU="4" Day="15" Month="8" Year="2011" Count="4" ItemStatus="SH" />
+  <row StoreId="310" KDGRP="40" SKU="5" Day="15" Month="8" Year="2011" Count="5" ItemStatus="SH" />
+  <row StoreId="310" KDGRP="40" SKU="6" Day="15" Month="8" Year="2011" Count="1" ItemStatus="SH" />
+  <row StoreId="310" KDGRP="40" SKU="7" Day="15" Month="8" Year="2011" Count="2" ItemStatus="SH" />
+  <row StoreId="310" KDGRP="40" SKU="8" Day="15" Month="8" Year="2011" Count="3" ItemStatus="SH" />
+  <row StoreId="310" KDGRP="40" SKU="9" Day="15" Month="8" Year="2011" Count="4" ItemStatus="SH" />
+  <row StoreId="310" KDGRP="40" SKU="10" Day="15" Month="8" Year="2011" Count="5" ItemStatus="SH" />
+  <row StoreId="310" KDGRP="40" SKU="1" Day="16" Month="8" Year="2011" Count="10" ItemStatus="CD" />
+  <row StoreId="310" KDGRP="10" SKU="2" Day="16" Month="8" Year="2011" Count="10" ItemStatus="CD" />
+  <row StoreId="310" KDGRP="20" SKU="2" Day="16" Month="8" Year="2011" Count="10" ItemStatus="CD" />
+  <row StoreId="310" KDGRP="40" SKU="81" Day="1" Month="8" Year="2011" Count="10" ItemStatus="SH" />
+  <row StoreId="310" KDGRP="40" SKU="81" Day="16" Month="8" Year="2011" Count="10" ItemStatus="SH" />
+  <row StoreId="310" KDGRP="40" SKU="82" Day="16" Month="8" Year="2011" Count="10" ItemStatus="SH" />
+  <row StoreId="310" KDGRP="40" SKU="83" Day="16" Month="8" Year="2011" Count="20" ItemStatus="SH" />
+  <row StoreId="310" KDGRP="40" SKU="84" Day="16" Month="8" Year="2011" Count="30" ItemStatus="SH" />
+
+
+  <row StoreId="311" KDGRP="30" SKU="11" Day="16" Month="8" Year="2011" Count="1" ItemStatus="SH" />
+  <row StoreId="311" KDGRP="30" SKU="12" Day="16" Month="8" Year="2011" Count="2" ItemStatus="SH" />
+  <row StoreId="311" KDGRP="30" SKU="13" Day="16" Month="8" Year="2011" Count="3" ItemStatus="SH" />
+  <row StoreId="311" KDGRP="30" SKU="14" Day="16" Month="8" Year="2011" Count="4" ItemStatus="SH" />
+  <row StoreId="311" KDGRP="30" SKU="15" Day="16" Month="8" Year="2011" Count="5" ItemStatus="SH" />
+  <row StoreId="311" KDGRP="30" SKU="16" Day="16" Month="8" Year="2011" Count="1" ItemStatus="SH" />
+  <row StoreId="311" KDGRP="30" SKU="17" Day="16" Month="8" Year="2011" Count="2" ItemStatus="SH" />
+  <row StoreId="311" KDGRP="30" SKU="18" Day="16" Month="8" Year="2011" Count="3" ItemStatus="SH" />
+  <row StoreId="311" KDGRP="30" SKU="19" Day="16" Month="8" Year="2011" Count="4" ItemStatus="SH" />
+  <row StoreId="311" KDGRP="30" SKU="20" Day="16" Month="8" Year="2011" Count="5" ItemStatus="SH" />
+  <row StoreId="311" KDGRP="30" SKU="90" Day="16" Month="8" Year="2011" Count="15" ItemStatus="SH" />
+  <row StoreId="311" KDGRP="30" SKU="91" Day="16" Month="8" Year="2011" Count="25" ItemStatus="SH" />
+  
+  <row StoreId="312" KDGRP="40" SKU="21" Day="16" Month="8" Year="2011" Count="1" ItemStatus="SH" />
+  <row StoreId="312" KDGRP="40" SKU="22" Day="16" Month="8" Year="2011" Count="2" ItemStatus="SH" />
+  <row StoreId="312" KDGRP="40" SKU="23" Day="16" Month="8" Year="2011" Count="3" ItemStatus="SH" />
+  <row StoreId="312" KDGRP="40" SKU="24" Day="16" Month="8" Year="2011" Count="4" ItemStatus="SH" />
+  <row StoreId="312" KDGRP="40" SKU="25" Day="16" Month="8" Year="2011" Count="5" ItemStatus="SH" />
+  <row StoreId="312" KDGRP="40" SKU="26" Day="16" Month="8" Year="2011" Count="1" ItemStatus="SH" />
+  <row StoreId="312" KDGRP="40" SKU="27" Day="16" Month="8" Year="2011" Count="2" ItemStatus="SH" />
+  <row StoreId="312" KDGRP="40" SKU="28" Day="16" Month="8" Year="2011" Count="3" ItemStatus="SH" />
+  <row StoreId="312" KDGRP="40" SKU="29" Day="16" Month="8" Year="2011" Count="4" ItemStatus="SH" />
+  <row StoreId="312" KDGRP="40" SKU="30" Day="16" Month="8" Year="2011" Count="5" ItemStatus="SH" />
+
+  <row StoreId="318" KDGRP="40" SKU="31" Day="16" Month="8" Year="2011" Count="1" ItemStatus="SH" />
+  <row StoreId="318" KDGRP="40" SKU="32" Day="16" Month="8" Year="2011" Count="2" ItemStatus="SH" />
+  <row StoreId="318" KDGRP="40" SKU="33" Day="16" Month="8" Year="2011" Count="3" ItemStatus="SH" />
+  <row StoreId="318" KDGRP="40" SKU="34" Day="16" Month="8" Year="2011" Count="4" ItemStatus="SH" />
+  <row StoreId="318" KDGRP="40" SKU="35" Day="16" Month="8" Year="2011" Count="5" ItemStatus="SH" />
+  <row StoreId="318" KDGRP="40" SKU="36" Day="16" Month="8" Year="2011" Count="1" ItemStatus="SH" />
+  <row StoreId="318" KDGRP="40" SKU="37" Day="16" Month="8" Year="2011" Count="2" ItemStatus="SH" />
+  <row StoreId="318" KDGRP="40" SKU="38" Day="16" Month="8" Year="2011" Count="3" ItemStatus="SH" />
+  <row StoreId="318" KDGRP="40" SKU="39" Day="16" Month="8" Year="2011" Count="4" ItemStatus="SH" />
+  <row StoreId="318" KDGRP="40" SKU="40" Day="16" Month="8" Year="2011" Count="5" ItemStatus="SH" />
+
+  <row StoreId="321" KDGRP="40" SKU="41" Day="16" Month="8" Year="2011" Count="1" ItemStatus="SH" />
+  <row StoreId="321" KDGRP="40" SKU="42" Day="16" Month="8" Year="2011" Count="2" ItemStatus="SH" />
+  <row StoreId="321" KDGRP="40" SKU="43" Day="16" Month="8" Year="2011" Count="3" ItemStatus="SH" />
+  <row StoreId="321" KDGRP="40" SKU="44" Day="16" Month="8" Year="2011" Count="4" ItemStatus="SH" />
+  <row StoreId="321" KDGRP="40" SKU="45" Day="16" Month="8" Year="2011" Count="5" ItemStatus="SH" />
+  <row StoreId="321" KDGRP="40" SKU="46" Day="16" Month="8" Year="2011" Count="1" ItemStatus="SH" />
+  <row StoreId="321" KDGRP="40" SKU="47" Day="16" Month="8" Year="2011" Count="2" ItemStatus="SH" />
+  <row StoreId="321" KDGRP="40" SKU="48" Day="16" Month="8" Year="2011" Count="3" ItemStatus="SH" />
+  <row StoreId="321" KDGRP="40" SKU="49" Day="16" Month="8" Year="2011" Count="4" ItemStatus="SH" />
+  <row StoreId="321" KDGRP="40" SKU="50" Day="16" Month="8" Year="2011" Count="5" ItemStatus="SH" />
+
+  <row StoreId="323" KDGRP="40" SKU="51" Day="16" Month="8" Year="2011" Count="1" ItemStatus="SH" />
+  <row StoreId="323" KDGRP="40" SKU="52" Day="16" Month="8" Year="2011" Count="2" ItemStatus="SH" />
+  <row StoreId="323" KDGRP="40" SKU="53" Day="16" Month="8" Year="2011" Count="3" ItemStatus="SH" />
+  <row StoreId="323" KDGRP="40" SKU="54" Day="16" Month="8" Year="2011" Count="4" ItemStatus="SH" />
+  <row StoreId="323" KDGRP="40" SKU="55" Day="16" Month="8" Year="2011" Count="5" ItemStatus="SH" />
+  <row StoreId="323" KDGRP="40" SKU="56" Day="16" Month="8" Year="2011" Count="1" ItemStatus="SH" />
+  <row StoreId="323" KDGRP="40" SKU="57" Day="16" Month="8" Year="2011" Count="2" ItemStatus="SH" />
+  <row StoreId="323" KDGRP="40" SKU="58" Day="16" Month="8" Year="2011" Count="3" ItemStatus="SH" />
+  <row StoreId="323" KDGRP="40" SKU="59" Day="16" Month="8" Year="2011" Count="4" ItemStatus="SH" />
+  <row StoreId="323" KDGRP="40" SKU="60" Day="16" Month="8" Year="2011" Count="5" ItemStatus="SH" />
+
+  <row StoreId="324" KDGRP="40" SKU="61" Day="16" Month="8" Year="2011" Count="1" ItemStatus="SH" />
+  <row StoreId="324" KDGRP="40" SKU="62" Day="16" Month="8" Year="2011" Count="2" ItemStatus="SH" />
+  <row StoreId="324" KDGRP="40" SKU="63" Day="16" Month="8" Year="2011" Count="3" ItemStatus="SH" />
+  <row StoreId="324" KDGRP="40" SKU="64" Day="16" Month="8" Year="2011" Count="4" ItemStatus="SH" />
+  <row StoreId="324" KDGRP="40" SKU="65" Day="16" Month="8" Year="2011" Count="5" ItemStatus="SH" />
+  <row StoreId="324" KDGRP="40" SKU="66" Day="16" Month="8" Year="2011" Count="1" ItemStatus="SH" />
+  <row StoreId="324" KDGRP="40" SKU="67" Day="16" Month="8" Year="2011" Count="2" ItemStatus="SH" />
+  <row StoreId="324" KDGRP="40" SKU="68" Day="16" Month="8" Year="2011" Count="3" ItemStatus="SH" />
+  <row StoreId="324" KDGRP="40" SKU="69" Day="16" Month="8" Year="2011" Count="4" ItemStatus="SH" />
+  <row StoreId="324" KDGRP="40" SKU="70" Day="16" Month="8" Year="2011" Count="5" ItemStatus="SH" />
+
+  <row StoreId="325" KDGRP="30" SKU="71" Day="16" Month="8" Year="2011" Count="1" ItemStatus="SH" />
+  <row StoreId="325" KDGRP="30" SKU="72" Day="16" Month="8" Year="2011" Count="2" ItemStatus="SH" />
+  <row StoreId="325" KDGRP="30" SKU="73" Day="16" Month="8" Year="2011" Count="3" ItemStatus="SH" />
+  <row StoreId="325" KDGRP="30" SKU="74" Day="16" Month="8" Year="2011" Count="4" ItemStatus="SH" />
+  <row StoreId="325" KDGRP="30" SKU="75" Day="16" Month="8" Year="2011" Count="5" ItemStatus="SH" />
+  <row StoreId="325" KDGRP="30" SKU="76" Day="16" Month="8" Year="2011" Count="1" ItemStatus="SH" />
+  <row StoreId="325" KDGRP="30" SKU="77" Day="16" Month="8" Year="2011" Count="2" ItemStatus="SH" />
+  <row StoreId="325" KDGRP="30" SKU="78" Day="16" Month="8" Year="2011" Count="3" ItemStatus="SH" />
+  <row StoreId="325" KDGRP="30" SKU="79" Day="16" Month="8" Year="2011" Count="4" ItemStatus="SH" />
+  <row StoreId="325" KDGRP="30" SKU="80" Day="16" Month="8" Year="2011" Count="5" ItemStatus="SH" />
+  <row StoreId="325" KDGRP="30" SKU="100" Day="16" Month="8" Year="2011" Count="15" ItemStatus="SH" />
+  <row StoreId="325" KDGRP="30" SKU="101" Day="16" Month="8" Year="2011" Count="25" ItemStatus="SH" />
+</rows>
